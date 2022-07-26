@@ -14,7 +14,7 @@ export default function Home() {
       <InfoSection />
       <ProductsSection />
       <div className="flex justify-center my-14">
-        <Link to="/allproducts" className="md:w-5/12 btn btn-outline">
+        <Link to="/allproducts" className="md:w-5/12 btn">
           Ver más
         </Link>
       </div>
